@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "name": "The Forest Hiker",
+    "duration": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "ratingAverage": 4.7,
+    "ratingQuantity": 37,
+    "price": 399,
+    "summery": "Breathtaking hike through the Canadian Banff National Park",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "imageCover": "tour-1-cover.jpg",
+    "images": [],
+    "startDates": []
+  },
+  {
+    "id": 1,
+    "name": "Sahyadri Hiker",
+    "duration": 30,
+    "maxGroupSize": 25,
+    "difficulty": "medium",
+    "ratingAverage": 4.9,
+    "ratingQuantity": 37,
+    "price": 500,
+    "summery": "Breathtaking hike through the Maharastrian Sahyadri Forest",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "imageCover": "tour-1-cover.jpg"
+  }
+]
